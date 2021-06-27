@@ -169,3 +169,14 @@
     margin-top: 1.3rem;
     line-height: 1.9rem;
 }
+@media (max-width: 575px){
+    #room header{
+        display: block;
+    }
+    #room header .buttons {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        margin-top: 2rem;
+    }
+}
