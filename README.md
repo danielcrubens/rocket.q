@@ -25,6 +25,48 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 <img  src="public/images/rocket.gif">
  
+ 
+## 💾 Instalação
+
+Siga os passos a baixo para executar o projeto!
+
+Clone o repositório
+
+```
+git clone https://github.com/danielcrubens/rocket.q.git
+```
+
+Instale todas as dependências do projeto
+
+```
+npm install
+```
+```
+npm install ejs
+```
+
+```
+npm install  nodemon-D
+```
+
+```
+npm install sqlite
+```
+```
+npm install sqlite3
+```
+Gerando as tabelas do banco de dados
+
+```
+npm run init-db
+```
+Dê start na apliação
+
+```
+npm start
+```
+
+Em seguida acesse http://localhost:3000 no seu navegador.
 ## :metal: Como contribuir
 
 
